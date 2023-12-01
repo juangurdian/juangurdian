@@ -1,6 +1,6 @@
 # Hello, I'm Juan Carlos Gurdian 👋
 
-# Seeking Sumer 2024 Internship
+# Seeking Summer 2024 Internship
 
 ## About Me 📖
 I'm a Computer Information Technology major at Texas Christian University, deeply passionate about technology and programming. My journey in tech started in Managua, Nicaragua, and has brought me to exciting opportunities and learning experiences.
