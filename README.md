@@ -6,10 +6,10 @@
 I'm a Computer Information Technology major at Texas Christian University, deeply passionate about technology and programming. My journey in tech started in Managua, Nicaragua, and has brought me to exciting opportunities and learning experiences.
 
 ## Tech Stack 🛠️
-- **Languages:** Proficient in Java, Python, and HTML. Currently learning C++.
+- **Languages:** Proficient in Java, Python, HTML, CSS, JavaScript.
 - **Version Control:** Enhancing my skills in Git.
 - **Systems Expertise:** Skilled in Bash, Linux Terminal, and Linux Management, including Kali Linux.
-- **Emerging Interests:** Exploring Raspberry Pi and its potential in creative projects.
+- **Emerging Interests:** Learning JavaScript and React.js. Exploring Raspberry Pi and its potential in creative projects.
 
 ## Hobbies and Interests 🏍️📚
 - **Motocross and ATVs:** An adrenaline enthusiast, I've been riding motocross and ATVs for as long as I can remember.
