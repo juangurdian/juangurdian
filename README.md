@@ -1,4 +1,4 @@
-# Hello, I'm Juan Carlos Gurdian 👋
+# Hello, I'm JC Gurdian 👋
 
 # Seeking Summer 2024 Internship
 
