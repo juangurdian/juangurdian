@@ -30,7 +30,7 @@ While I have a keen interest in programming and technology, I'm equally enthusia
 ## Connect with Me 🌍
 - **LinkedIn:** [www.linkedin.com/in/juan-gurdian](#)
 - **Email:** jc.gurdian@tcu.edu
-- **Personal Website**: jcgurdian.com
+- **Personal Website**: jcgurdian.io
 
 Feel free to browse through my repositories to see what I'm currently working on and learning about!
 
