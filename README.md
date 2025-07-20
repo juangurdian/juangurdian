@@ -8,8 +8,8 @@ I'm a Computer Information Technology major at Texas Christian University, deepl
 ## *Currently a Machine Learning Intern in Atomchat.io*
 
 ## Tech Stack 🛠️
-- **Languages:** Proficient in Java, Python, HTML, CSS, JavaScript.
-- **Skills:** Node.js, Langchain, Langsmith, MYSQL, React.js, Bitbucket, Git, Jira, Miro.
+- **Languages:** Proficient in Java, Python, Javascript, Typescript, HTML, CSS.
+- **Skills:** Next.js, React Native, Node.js, Langchain, Langsmith, MYSQL, React.js, Bitbucket, Git, Jira, Miro.
 
 ## Favorite Projects 
 - **Jarvis Assistant**: Recreated Ironman's AI assistant powered by the OpenAI API along with Whisper for Text To Speech and RealTimeSTT for Speech to Text. Gave it fucntionality through tools like realtime weather info, spotify controls, streaming services control, image search, and app opening.
