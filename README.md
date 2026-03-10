@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=JC%20Gurdian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+```
+     ██╗ ██████╗     ██████╗ ██╗   ██╗██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
+     ██║██╔════╝    ██╔════╝ ██║   ██║██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
+     ██║██║         ██║  ███╗██║   ██║██████╔╝██║  ██║██║███████║██╔██╗ ██║
+██   ██║██║         ██║   ██║██║   ██║██╔══██╗██║  ██║██║██╔══██║██║╚██╗██║
+╚█████╔╝╚██████╗    ╚██████╔╝╚██████╔╝██║  ██║██████╔╝██║██║  ██║██║ ╚████║
+ ╚════╝  ╚═════╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Automation+Specialist;Bringing+AI+to+Latin+America)](https://git.io/typing-svg)
 
@@ -70,7 +77,7 @@ Based in the US, originally from Managua, Nicaragua.
 <tr>
 <td width="50%">
 
-**[BeastAI](https://github.com/juangurdian/beastAI)**
+**[BeastAI](https://github.com/juangurdian/Vault-AI)**
 Local-first AI platform. Run multiple models on your own hardware with intelligent routing, RAG, image generation via ComfyUI, and multi-step research agents.
 
 `Next.js` `FastAPI` `Ollama` `ChromaDB` `Docker`
@@ -88,7 +95,7 @@ Production AI pipeline that transforms meeting recordings into blog posts, Linke
 <tr>
 <td width="50%">
 
-**[Bug Butler](https://github.com/juangurdian/slack-github-bug-agent)** _(open source)_
+**[Bug Butler](https://github.com/juangurdian/bug-butler)** _(open source)_
 Slack bot that converts natural language bug reports into structured GitHub Issues using AI. Smart follow-up questions, preview confirmation, multi-LLM support.
 
 `FastAPI` `LiteLLM` `Slack Bolt` `Supabase`
@@ -135,8 +142,12 @@ Recreated Iron Man's AI assistant. Voice-controlled with real-time STT/TTS, Spot
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gurdian)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juangurdian2003@gmail.com)
 [![Website](https://img.shields.io/badge/jcgurdian.io-000000?style=for-the-badge&logo=safari&logoColor=white)](https://jcgurdian.io)
-[![Twitter](https://img.shields.io/badge/@pearlwolf__labs-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/pearlwolf_labs)
+[![Threads](https://img.shields.io/badge/@pearlwolf__labs-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@pearlwolf_labs)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=120&section=footer" width="100%" />
+---
+
+```
+[jcgurdian@github ~]$ exit
+```
