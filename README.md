@@ -95,15 +95,7 @@ Local-first AI platform. Run multiple models on your own hardware with intellige
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**[reelwright](https://github.com/juangurdian/reelwright)**
-Agent-driven video studio: an AI coding agent captures, generates, composes, and edits whole videos from a prompt. Claude Code skill.
-
-`Remotion` `fal.ai` `FFmpeg` `Claude Code`
-
-</td>
-<td width="50%">
+<td colspan="2">
 
 **[Bug Butler](https://github.com/juangurdian/bug-butler)** _(open source)_
 Slack bot that converts natural language bug reports into structured GitHub Issues using AI. Smart follow-up questions, preview confirmation, multi-LLM support.
