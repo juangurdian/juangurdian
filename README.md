@@ -9,7 +9,7 @@
  ╚════╝  ╚═════╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Automation+Specialist;Bringing+AI+to+Latin+America)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Agents+%C2%B7+RAG+%C2%B7+MCP;Claude+Code+%26+Codex+Force-Multiplier;Open+to+Tampa+Hybrid+%26+US+Remote)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,15 +17,17 @@
 
 ### `> whoami`
 
-**AI Engineer at [yorCMO.ai](https://yorcmo.ai) | Freelance AI Consultant**
-Building local-first AI platforms, production pipelines, and automation systems.
-Based in the US, originally from Managua, Nicaragua.
+**AI Engineer at [yorCMO.ai](https://yorcmo.ai)** · Open to Tampa hybrid & US remote roles
+Building local-first AI platforms, production pipelines, and agentic systems.
+Based in **Tampa, FL** · Originally from Managua, Nicaragua
 
 ---
 
 ### `> cat mission.txt`
 
 **Bridging the AI gap for Latin America.** I'm on a mission to bring AI adoption to Latin American businesses — starting in my home country, Nicaragua. Through education, consulting, and hands-on implementation, I help local companies adopt AI safely and strategically, closing the technology gap and empowering regional growth.
+
+Currently seeking AI Engineer roles (Tampa hybrid or US remote) where I can ship agents, RAG systems, and production AI at scale.
 
 ---
 
@@ -77,36 +79,28 @@ Based in the US, originally from Managua, Nicaragua.
 <tr>
 <td width="50%">
 
-**[BeastAI](https://github.com/juangurdian/Vault-AI)**
+**[Wingman](https://github.com/juangurdian/wingman)**
+TypeScript MCP bridge so Grok/Cursor (and similar hosts) talk to local Codex + Claude Code sessions. Easy-pair, hot-swap between AI coders.
+
+`TypeScript` `MCP` `Claude Code` `Codex`
+
+</td>
+<td width="50%">
+
+**[BeastAI / Vault-AI](https://github.com/juangurdian/Vault-AI)**
 Local-first AI platform. Run multiple models on your own hardware with intelligent routing, RAG, image generation via ComfyUI, and multi-step research agents.
 
 `Next.js` `FastAPI` `Ollama` `ChromaDB` `Docker`
 
 </td>
-<td width="50%">
-
-**[yorCMO Content Engine](https://github.com/juangurdian/content-engine)**
-Production AI pipeline that transforms meeting recordings into blog posts, LinkedIn content, and video snippets with human-in-the-loop approval workflows.
-
-`FastAPI` `Modal` `PostgreSQL` `OpenAI` `Supabase`
-
-</td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
 **[Bug Butler](https://github.com/juangurdian/bug-butler)** _(open source)_
 Slack bot that converts natural language bug reports into structured GitHub Issues using AI. Smart follow-up questions, preview confirmation, multi-LLM support.
 
 `FastAPI` `LiteLLM` `Slack Bolt` `Supabase`
-
-</td>
-<td width="50%">
-
-**[Jarvis Assistant](https://github.com/juangurdian/jarvis-assistant)**
-Recreated Iron Man's AI assistant. Voice-controlled with real-time STT/TTS, Spotify control, weather info, image search, and app launching.
-
-`Python` `OpenAI` `Whisper` `RealTimeSTT`
 
 </td>
 </tr>
